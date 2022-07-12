@@ -29,8 +29,8 @@ Algumas questões interessantes:
 
 TLS x mTLS
 
-[<img src="tls.jpg" width="200px"/>](tls.jpg)
-[<img src="mtls.jpg" width="198px"/>](mtls.jpg)
+[<img src="tls.jpg" width="400px"/>](tls.jpg)
+[<img src="mtls.jpg" width="396px"/>](mtls.jpg)
 
 O mTLS tem o fluxo normal do TLS somado a uma validação por parte do servidor, do certificado informado pelo cliente através do ca root configurado no servidor, dessa forma o cliente também consegue provar ser quem ele deve ser para o servidor.
 
